@@ -1,0 +1,4 @@
+Kafka data warehouse
+Aws Glue Athena(Query Editor)
+Redshift Aws data warehouse
+[?12;2$y[>4;0m[Icommit
